@@ -9,3 +9,5 @@ Pulled successfully
 Pushed successfully
 
 Contradictory note added
+
+Truing to make contradiction

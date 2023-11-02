@@ -8,4 +8,4 @@ Pulled successfully
 
 Pushed successfully
 
-Trying to make contradictory note
+Contradictory note added
